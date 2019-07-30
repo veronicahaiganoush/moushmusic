@@ -7,19 +7,20 @@ html,body{
   background: white;
 }
 
-a {
-  font-family:"Helvetica", sans-serif;
+.navbar a {
+  font-family: 'Dosis', sans-serif;
   text-align:center;
   min-width:260px;
   color: black;
-  font-size: 10px;
+  font-size: 22px;
+
 }
 #armo {
   font-family: 'Noto Sans Armenian', sans-serif;
 }
 navbar {
   font-family: 'Dosis', sans-serif;
-  font-size: 18px;
+  font-size: 24px;
   overflow: hidden;
   background-color: #white;
   position: fixed; /* Set the navbar to fixed position */
