@@ -2,23 +2,21 @@ html,body{
   font-family:"Helvetica", sans-serif;
   text-align:center;
   min-width:260px;
-  color: white;
+  color: black;
   font-size: 10px;
-  background: black;
+  background: white;
 }
 a {
   font-family:"Helvetica", sans-serif;
   text-align:center;
   min-width:260px;
-  color: white;
+  color: black;
   font-size: 10px;
 }
 #main{
 
-  margin:
-  padding:
   border:0px solid;
-  background: black;
+  background: white;
 }
 img{
   max-width: 100%;
