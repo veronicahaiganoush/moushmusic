@@ -19,6 +19,7 @@ a {
 }
 navbar {
   font-family: 'Dosis', sans-serif;
+  font-size: 18px;
   overflow: hidden;
   background-color: #white;
   position: fixed; /* Set the navbar to fixed position */
