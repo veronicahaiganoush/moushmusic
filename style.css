@@ -7,20 +7,15 @@ html,body{
   background: white;
 }
 
-.navbar a {
-  font-family: 'Dosis', sans-serif;
-  text-align:center;
-  min-width:260px;
-  color: black;
-  font-size: 22px;
-
-}
 #armo {
   font-family: 'Noto Sans Armenian', sans-serif;
 }
 navbar {
   font-family: 'Dosis', sans-serif;
-  font-size: 24px;
+  text-align:center;
+  min-width:260px;
+  font-size: 28px;
+  color: black;
   overflow: hidden;
   background-color: #white;
   position: fixed; /* Set the navbar to fixed position */
@@ -44,19 +39,40 @@ navbar {
   background: #ddd;
   color: black;
 }
-video {
-  width: 100%;
-  height: auto;
-}
 
+/* Main content */
+.main {
+  margin-top: 30px; /* Add a top margin to avoid content overlay */
+}
+#main{
+  border:0px solid;
+  background: white;
+}
+img{
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+  float: center;
+}
+#img-div{
+  margin:0px;
+  margin-top:0px;
+  width:100%;
+  background:#ffe2fa;
+}
+#img-caption{
+  margin:15px;
+}
+#headline{
+  margin-top:50px;
+  text-align:left;
+}
 ul{
-  max-width:550px;
+  max-width:200px;
   margin:0 auto;
   text-align:left;
 }
 li{
   margin: 10px;
-}
-blockquote{
-  font-style: italic;
 }
