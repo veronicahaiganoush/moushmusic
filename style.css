@@ -40,6 +40,13 @@ navbar {
   color: black;
 }
 
+video {
+  width: 100%;
+  height: auto;
+}
+
+}
+
 /* Main content */
 .main {
   margin-top: 30px; /* Add a top margin to avoid content overlay */
