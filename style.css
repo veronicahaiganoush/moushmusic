@@ -56,6 +56,9 @@ navbar {
   border:0px solid;
   background: white;
 }
+#about {
+  text-align: justify;
+}
 img{
   max-width: 100%;
   display: block;
