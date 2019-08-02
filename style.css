@@ -49,14 +49,6 @@ navbar {
     font-size: 22px;
   }
 }
-#caption {
-  font-size: 22px;
-}
-/* Change background on mouse-over */
-.navbar a:hover {
-  background: #ddd;
-  color: black;
-}
 
 .box {
   background-color: #f7f7f7;
@@ -67,7 +59,6 @@ navbar {
 #bold {
   font-weight: 400;
 }
-/* Main content */
 .main {
   margin-top: 30px; /* Add a top margin to avoid content overlay */
 }
@@ -84,27 +75,4 @@ img{
   height: auto;
   margin: auto;
   float: center;
-}
-#img-div{
-  margin:0px;
-  margin-top:0px;
-  width:100%;
-  background:#ffe2fa;
-}
-#img-caption{
-  margin:15px;
-}
-#headline{
-  margin-top:50px;
-  text-align:left;
-}
-
-}
-ul{
-  max-width:200px;
-  margin:0 auto;
-  text-align:left;
-}
-li{
-  margin: 10px;
 }
