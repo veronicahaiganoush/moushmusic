@@ -1,13 +1,32 @@
 html,body{
-  font-family: font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 300;
   color: #404040;
   text-align:center;
   min-width:260px;
   color: black;
-  font-size: 14px;
+  font-size: 24px;
   background: #f7f7f7;
 }
+#logo {
+  width: 10%;
+  position:absolute;
+  left:0;
+  top:0;
+}
+#location {
+  padding-right: 10px;
+  padding-top: 10px;
+}
+#intro {
+  padding-left: 150px;
+  padding-right: 150px;
+  text-align: justify;
+}
 
+#tagline {
+  font-weight: bold;
+}
 navbar {
   font-family: helvetica;
   text-align:center;
@@ -20,16 +39,6 @@ navbar {
   top: 0; /* Position the navbar at the top of the page */
 }
 
-/* Links inside the navbar  - RM commented out */
-/*
-.navbar a {
-  float: left;
-  display: block;
-  color: black;
-  text-align: center;
-  padding: 10px 10px;
-  text-decoration: none;
-}*/
 
 #caption {
   font-size: 22px;
@@ -49,8 +58,8 @@ navbar {
 .box {
   background-color: #f7f7f7;
   width: auto;
-  border: 15px black;
-  margin: 3%;
+  border: 10px black;
+  margin: 2%;
 }
 
 /* Main content */
