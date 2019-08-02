@@ -48,20 +48,16 @@ navbar {
   background: #ddd;
   color: black;
 }
-.scroll-overlay {
-    position: center;
-    top: 20vh;
-    right: 50%;
-    margin-left: -25px;
-    margin-right: -25px;
-  }
+
 .box {
   background-color: #f7f7f7;
   width: auto;
   border: 10px black;
   margin: 2%;
 }
-
+#bold {
+  font-weight: 400;
+}
 /* Main content */
 .main {
   margin-top: 30px; /* Add a top margin to avoid content overlay */
