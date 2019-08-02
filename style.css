@@ -23,6 +23,14 @@ html,body{
   padding-right: 150px;
   text-align: justify;
 }
+.px-2 {
+  padding-left: ($spacer * .5) !important;
+  padding-right: ($spacer * .5) !important;
+}
+
+.p-3 {
+  padding: $spacer !important;
+}
 
 #tagline {
   font-weight: bold;
