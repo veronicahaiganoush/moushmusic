@@ -1,15 +1,13 @@
 html,body{
   font-family: font-family: 'Source Sans Pro', sans-serif;
+  color: #404040;
   text-align:center;
   min-width:260px;
   color: black;
   font-size: 14px;
-  background: white;
+  background: #f7f7f7;
 }
 
-#armo {
-  font-family: 'Noto Sans Armenian', sans-serif;
-}
 navbar {
   font-family: helvetica;
   text-align:center;
@@ -42,7 +40,7 @@ navbar {
   color: black;
 }
 .box {
-  background-color: white;
+  background-color: #f7f7f7;
   width: auto;
   border: 15px black;
   margin: 3%;
