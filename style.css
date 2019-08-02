@@ -22,7 +22,8 @@ navbar {
   top: 0; /* Position the navbar at the top of the page */
 }
 
-/* Links inside the navbar */
+/* Links inside the navbar  - RM commented out */
+/*
 .navbar a {
   float: left;
   display: block;
@@ -30,7 +31,8 @@ navbar {
   text-align: center;
   padding: 10px 10px;
   text-decoration: none;
-}
+}*/
+
 #caption {
   font-size: 22px;
 }
@@ -39,6 +41,12 @@ navbar {
   background: #ddd;
   color: black;
 }
+.box {
+  background-color: white;
+  width: auto;
+  border: 15px black;
+  padding: 50px;
+  margin: 20px;
 
 /* Main content */
 .main {
@@ -67,6 +75,8 @@ img{
 #headline{
   margin-top:50px;
   text-align:left;
+}
+
 }
 ul{
   max-width:200px;
