@@ -29,9 +29,6 @@ html,body{
 =======
 >>>>>>> fe3cd64ba329a37bf4ae95c271f4da0dd8764647
 
-#tagline {
-  font-weight: bold;
-}
 .fixed-nav-bar {
   position: fixed;
   top: 0;
@@ -51,6 +48,7 @@ html,body{
   html {
     font-size: 22px;
   }
+}
 
 .box {
   padding-top: 40px;
@@ -62,6 +60,9 @@ html,body{
 .bold {
   font-weight: 700;
 }
+
+
+
 img{
   max-width: 100%;
   display: block;
