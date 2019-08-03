@@ -4,7 +4,6 @@ html,body{
   color: #404040;
   text-align:center;
   min-width:260px;
-  color: black;
   font-size: 24px;
   background: #f7f7f7;
 }
@@ -32,14 +31,6 @@ html,body{
 }
 =======
 >>>>>>> fe3cd64ba329a37bf4ae95c271f4da0dd8764647
-.p {
-  padding-left: ($spacer * .5) !important;
-  padding-right: ($spacer * .5) !important;
-}
-
-.p {
-  padding: $spacer !important;
-}
 
 #tagline {
   font-weight: bold;
@@ -70,18 +61,9 @@ html,body{
   width: auto;
   margin: 2%;
 }
-#bold {
-  font-weight: 400;
-}
-.main {
-  margin-top: 30px; /* Add a top margin to avoid content overlay */
-}
-#main{
-  border:0px solid;
-  background: white;
-}
-#about {
-  text-align: justify;
+
+.bold {
+  font-weight: 700;
 }
 img{
   max-width: 100%;
