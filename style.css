@@ -25,14 +25,18 @@ h4 {
   font-size: 20px;
 }
 #intro {
-  padding-left: 10%;
-  padding-right: 10%;
+  padding-left: 12%;
+  padding-right: 12%;
   text-align: justify;
-
 }
 
-.container {
-  height: 150px;
+.container#vimeo {
+  padding-left: 8%;
+  padding-right: 8%;
+}
+
+.container#intro {
+  height: 120px;
 }
 
 .fixed-top {
@@ -44,7 +48,7 @@ h4 {
   height: 60px;
   background: #f7f7f7;
 }
-img#wemakemusic {
+img.manifesto {
   width: 100%;
   height: auto;
 }
@@ -64,21 +68,12 @@ img#wemakemusic {
   }
 }
 
-#insta {
-  position: absolute;
-  right: 30;
-}
-#logobottom {
-  position: absolute;
-  width: 130px;
-  left:10;
-  padding-bottom: 3px;
-}
 
 .box {
   padding-top: 30px;
   padding-bottom: 10px;
-  width: 100%
+  width: 80%;
+  align-content: center;
 }
 
 .bold {
