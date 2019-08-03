@@ -72,6 +72,11 @@ img.manifesto {
 .box {
   padding-top: 30px;
   padding-bottom: 10px;
+<<<<<<< HEAD
+=======
+  width: 80%;
+  align-content: center;
+>>>>>>> 120a5fbdcfba8750c3c5de2a9f66ff2062c4a94e
 }
 
 .bold {
