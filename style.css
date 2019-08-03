@@ -14,9 +14,14 @@ html,body{
   left:0;
   top:0;
 }
+
+navbar {
+  position: fixed;
+}
 #location {
-  padding-right: 10px;
-  padding-top: 10px;
+  padding-right: 20px;
+  padding-top: 20px;
+  font-size: 20px;
 }
 #intro {
   padding-left: 12%;
