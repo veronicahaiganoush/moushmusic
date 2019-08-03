@@ -31,8 +31,7 @@ h4 {
 }
 
 .container {
-  padding-top: 0px;
-  padding-bottom: 0px;
+  height: 150px;
 }
 
 .fixed-top {
@@ -89,9 +88,10 @@ img{
 }
 
 .bs-docs-footer {
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
     margin-top: 100px;
+    font-size: 18px;
     width: 100%;
     color: #f7f7f7;
     text-align: center;
