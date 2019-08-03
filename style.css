@@ -13,6 +13,7 @@ html,body{
   top:3;
 }
 
+
 #location {
   right:30;
   top:0;
@@ -67,6 +68,12 @@ img#wemakemusic {
   position: absolute;
   right: 30;
 }
+#logobottom {
+  position: absolute;
+  width: 130px;
+  left:10;
+  padding-bottom: 3px;
+}
 
 .box {
   padding-top: 30px;
@@ -88,8 +95,8 @@ img{
 }
 
 .bs-docs-footer {
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     margin-top: 100px;
     font-size: 18px;
     width: 100%;
