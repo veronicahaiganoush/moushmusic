@@ -19,9 +19,13 @@ html,body{
   padding-top: 10px;
 }
 #intro {
-  padding-left: 150px;
-  padding-right: 150px;
+  padding-left: 12%;
+  padding-right: 12%;
   text-align: justify;
+}
+#intro {
+  padding-left: 12%;
+  padding-right: 12%;
 }
 .p {
   padding-left: ($spacer * .5) !important;
