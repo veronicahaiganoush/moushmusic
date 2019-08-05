@@ -30,6 +30,14 @@ h4 {
   text-align: justify;
 }
 
+.links:hover {
+  color: black;
+}
+
+a:link {
+  text-decoration: none;
+}
+
 .container#video {
   padding-top: 50px;
 }
