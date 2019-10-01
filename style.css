@@ -10,12 +10,12 @@ html,body{
   height: 90%;
   width:auto;
   position:absolute;
-  left:15%;
+  left:12%;
   top:3;
 }
 
 #location {
-  right:15%;
+  right:12%;
   top:0;
   position: absolute;
   font-size: 15px;
@@ -24,6 +24,8 @@ html,body{
 h4 {
   font-size: 18px;
 }
+
+
 h6 {
   font-size: 18px;
 }
@@ -31,6 +33,12 @@ h6 {
   padding-left: 12%;
   padding-right: 12%;
   text-align: justify;
+}
+
+.page-footer {
+  font-size:10px;
+  padding-bottom: 1%;
+  padding-top: 1%;
 }
 
 a:link {
@@ -100,15 +108,4 @@ img{
   height: auto;
   margin: auto;
   float: center;
-}
-
-.bs-docs-footer {
-    padding-top: 20px;
-    padding-bottom: 20px;
-    margin-top: 100px;
-    font-size: 18px;
-    width: 100%;
-    color: #f7f7f7;
-    text-align: center;
-    background-color: #282828;
 }
