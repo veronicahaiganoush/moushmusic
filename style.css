@@ -22,7 +22,10 @@ html,body{
   text-align: right !important;
 }
 h4 {
-  font-size: 20px;
+  font-size: 18px;
+}
+h6 {
+  font-size: 18px;
 }
 #intro {
   padding-left: 12%;
