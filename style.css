@@ -10,12 +10,12 @@ html,body{
   height: 90%;
   width:auto;
   position:absolute;
-  left:12%;
+  left:15%;
   top:3;
 }
 
 #location {
-  right:12%;
+  right:15%;
   top:0;
   position: absolute;
   font-size: 15px;
