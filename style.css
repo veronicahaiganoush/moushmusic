@@ -1,5 +1,5 @@
 html,body{
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Nunito', sans-serif;
   font-weight: 300;
   color: #404040;
   min-width:260px;
@@ -11,23 +11,23 @@ html,body{
   width:auto;
   position:absolute;
   left:15%;
-  top:3;
+  top:2;
 }
 
 #location {
-  right:15%;
-  top:0;
+  right:16%;
+  top:2;
   position: absolute;
   font-size: 15px;
   text-align: right !important;
 }
 h4 {
-  font-size: 18px;
+  font-size: 15px;
 }
 
 
 h6 {
-  font-size: 18px;
+  font-size: 15px;
 }
 #intro {
   padding-left: 12%;
